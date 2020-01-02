@@ -8,7 +8,7 @@ this repository divided into two parts
 2. server part which hand the equations, front-end stuff and dealing with the prediction model, you could find it [here](https://github.com/xayden/mnist-client#minst-client) with steps and 
 requirements for installation and run
 
-![here a GIF for the demo ](https://github.com/Moad/Mnist-Handwritten/master/images/demo.gif)
+![here a GIF for the demo ](https://github.com/Moado/Mnist-Handwritten/blob/master/images/demo.gif)
 
 ### **Requirements**
 * [Python](https://www.python.org/) 3.* 
